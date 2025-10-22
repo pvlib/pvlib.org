@@ -1,9 +1,9 @@
 # Governance for pvlib
 
-Author: the pvlib Core Team
-Created: 28 June 2025
-Last revised: 28 June 2025
-Status: active
+Author: the pvlib Core Team  
+Created: 28 June 2025  
+Last revised: 28 June 2025  
+Status: active  
 Revisions: https://github.com/pvlib/pvlib.org/commits/main/GOVERNANCE.md
 
 ## The Project
