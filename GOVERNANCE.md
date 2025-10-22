@@ -4,7 +4,7 @@ Author: the pvlib Core Team
 Created: 28 June 2025
 Last revised: 28 June 2025
 Status: active
-Revisions: (link to GH revision history)
+Revisions: https://github.com/pvlib/pvlib.org/commits/main/GOVERNANCE.md
 
 ## The Project
 The pvlib project (The Project) is an open source software project. The goal of The Project is to
